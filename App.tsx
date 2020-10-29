@@ -5,7 +5,6 @@ import {
   Nunito_700Bold,
   Nunito_800ExtraBold,
 } from "@expo-google-fonts/nunito";
-import env from "react-native-dotenv";
 
 import Routes from "./src/routes";
 
